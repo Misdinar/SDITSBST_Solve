@@ -1,11 +1,8 @@
 # SDITSBST_Solve
 
 SDITSBST - Binary Search Tree
-In this problem you are given two type of query
-
-Insert an integer to the list.
-Given an integer x, you're about to find an integer k which represent x's index if the list is sorted in descending order. Note that in this problem we will use 1-based indexing.
-As the problem title suggest, this problem intended to be solved using Binary Search Tree.
+In this problem you are given two type of query. Insert an integer to the list.
+Given an integer x, you're about to find an integer k which represent x's index if the list is sorted in descending order. Note that in this problem we will use 1-based indexing. As the problem title suggest, this problem intended to be solved using Binary Search Tree.
 
 Input
 The first line contains an integer Q, which denotes how many queries that follows.
