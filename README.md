@@ -19,7 +19,7 @@ For each query type 2, print a line containing an integer as the answer or print
 
 Example
 Input:
-1010
+10
 1 100
 1 74
 2 100
