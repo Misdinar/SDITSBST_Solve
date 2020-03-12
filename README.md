@@ -1,7 +1,6 @@
 # SDITSBST_Solve
 
 SDITSBST - Binary Search Tree
-no tags 
 In this problem you are given two type of query
 
 Insert an integer to the list.
